@@ -4,7 +4,7 @@ import java.awt.event.ActionEvent;
 
 public class Mainframe extends JFrame {
     private JTextField jtf = new JTextField();
-    private String x = "";
+    private String x = "23323456";
     private String str = new String("");
     private JLabel jlb = new JLabel("");
     private Container cp;
